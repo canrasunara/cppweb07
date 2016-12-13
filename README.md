@@ -6,6 +6,7 @@ Tutorial by canrasunara
 <head>
     <title> Website CanSun </title>
 </head>
+<hr/>
     <body>
     <h1> CANSUN </h1>
     <p> Bismillah </p>    
