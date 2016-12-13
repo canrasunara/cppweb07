@@ -7,7 +7,7 @@ Tutorial by canrasunara
     <title> Website CanSun </title>
 </head>
     <body>
-    <p> Bismillah </p>
-    
+    <h1> CANSUN </h1>
+    <p> Bismillah </p>    
     </body>
 </html>
